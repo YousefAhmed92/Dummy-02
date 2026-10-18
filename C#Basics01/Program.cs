@@ -22,7 +22,7 @@ Console.WriteLine(ReferenceEquals(title1, title2));
 
 StringBuilder sb = new StringBuilder();
 sb.Append("Book List");
-sb.Append(" - updates");
+sb.Append(" - updated");
 
 Console.WriteLine(sb.ToString());
 
